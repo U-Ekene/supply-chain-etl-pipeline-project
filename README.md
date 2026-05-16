@@ -91,8 +91,6 @@ supply-chain-etl-pipeline-project/
 
 ## Architecture
 
-![Architecture v1](docs/architecture_v1.png)
-
 For v1 the flow is:
 
 `DataCo CSV → Python ETL (pandas) → SQLite → Power BI dashboard`
