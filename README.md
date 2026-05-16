@@ -2,7 +2,7 @@
 
 An end-to-end ETL pipeline for supply chain analytics. Built around the DataCo Smart Supply Chain dataset, this project ingests raw order and shipment data, transforms it into a clean analytical schema, loads it into a SQLite database, and serves it to a Power BI dashboard for delivery performance analysis.
 
-This is a learning project I'm building toward a fall data engineering co-op. I'm developing it in versions, v1 ships a working local pipeline, and each subsequent version adds a layer of production-grade infrastructure (cloud storage, orchestration, data quality, deployment).
+This is a project that I am developing in versions, v1 ships a working local pipeline, and each subsequent version adds a layer of production-grade infrastructure (cloud storage, orchestration, data quality, deployment).
 
 ## Current status: v1 (shipped)
 
